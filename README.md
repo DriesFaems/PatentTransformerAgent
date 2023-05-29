@@ -7,3 +7,5 @@ What will happen: By running the code, you will create a fine-tuned GPT model th
 
 What is the output: A specific business model idea, that will rely on different patents. It will explicitly mention which patents are used to do so.
 
+For an example, you can watch https://www.youtube.com/watch?v=lk9D-GQTBMk
+
